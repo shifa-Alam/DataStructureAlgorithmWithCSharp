@@ -10,15 +10,17 @@
         {
             if(a[j] < a[minIndex])
             {
+
                 minIndex=j;
             }
-            if (minIndex != i)
-            {
-                int temp=a[i];
-                a[i]=a[minIndex];   
-                a[minIndex]=temp;
+            
+        }
+        if (minIndex != i)
+        {
+            int temp = a[i];
+            a[i] = a[minIndex];
+            a[minIndex] = temp;
 
-            }
         }
         Console.Write(a[i] + " ");
     }
