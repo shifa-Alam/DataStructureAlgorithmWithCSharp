@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shifa\\.nuget\\packages\\": {}
+    "C:\\Users\\RITE-065\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\binarySearch.csproj",
+      "projectUniqueName": "C:\\Users\\RITE-065\\Desktop\\Work\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\binarySearch.csproj",
       "projectName": "binarySearch",
-      "projectPath": "D:\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\binarySearch.csproj",
-      "packagesPath": "C:\\Users\\shifa\\.nuget\\packages\\",
-      "outputPath": "D:\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\obj\\",
+      "projectPath": "C:\\Users\\RITE-065\\Desktop\\Work\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\binarySearch.csproj",
+      "packagesPath": "C:\\Users\\RITE-065\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RITE-065\\Desktop\\Work\\DataStructureAlgorithmWithCSharp\\dataStructureAlgorithm\\binarySearch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shifa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RITE-065\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\bin\Debug\net7.0\InsertionSort.exe
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\bin\Debug\net7.0\InsertionSort.deps.json
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\bin\Debug\net7.0\InsertionSort.runtimeconfig.json
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\bin\Debug\net7.0\InsertionSort.dll
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\bin\Debug\net7.0\InsertionSort.pdb
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.AssemblyReference.cache
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfo.cs
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.dll
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\refint\InsertionSort.dll
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.pdb
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\InsertionSort.genruntimeconfig.cache
+C:\Users\RITE-065\Desktop\Work\DataStructureAlgorithmWithCSharp\dataStructureAlgorithm\InsertionSort\obj\Debug\net7.0\ref\InsertionSort.dll
